@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Arsany Naim</h1>
 
 # 💫 About Me:
-I am a fourth-year computer science student at Misr International University, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a fourth-year computer science student at Misr International University (MIU), passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To  
 
