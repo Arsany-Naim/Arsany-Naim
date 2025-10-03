@@ -5,7 +5,7 @@ I am a fourth-year computer science student at Misr International University (MI
 
 ## 🚀 What I'm Up To  
 
-- 💻 Building full-stack web applications with **ASP.NET Core, Angular, and SQL Server**  
+- 💻 Building full-stack web applications.
 - 🤖 Exploring **Machine Learning** for code analysis and gamification (using Python & scikit-learn)  
 - ☁️ Learning more about **Cloud & DevOps tools** like Azure and Docker  
 - 🔗 Contributing to **open-source projects** and improving collaboration skills  
