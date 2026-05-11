@@ -12,7 +12,7 @@ I am a fourth-year computer science student at Misr International University (MI
 
 
 
-Check out my [coding portfolio!👨‍💻](https://arsany-portfolio.vercel.app/)
+Check out my [Portfolio!👨‍💻](https://arsany-portfolio.vercel.app/)
 
 
 
