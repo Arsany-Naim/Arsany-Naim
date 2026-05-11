@@ -3,7 +3,7 @@
 # 💫 About Me:
 I am a fourth-year computer science student at Misr International University (MIU), passionate about exploring the realms of coding, machine learning, and building robust applications.
 
-## 🚀 What I'm Up To  
+### 🚀 What I'm Up To  
 
 - 💻 Building **Full-Stack** web applications
 - 🤖 Exploring **Machine Learning** for code analysis and gamification (using Python & scikit-learn)  
@@ -17,7 +17,7 @@ Check out my [coding portfolio!👨‍💻](https://arsany-portfolio.vercel.app/
 
 
 
-## 🌐 Connect with me:
+### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Arsany-Naim/)
 
 # 💻 Tech Stack
