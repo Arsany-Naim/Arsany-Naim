@@ -16,9 +16,10 @@ Check out my [Portfolio!👨‍💻](https://arsany-portfolio.vercel.app/)
 
 
 
-
-## 🌐 Connect with me:
+## 💬 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Arsany-Naim/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arsanynaim@gmail.com)
+
+
 
 # 💻 Tech Stack
 
